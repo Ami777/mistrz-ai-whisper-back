@@ -1,7 +1,7 @@
 {
   "name": "mistrz-ai-whisper-back",
   "version": "1.0.0",
-  "main": "be.ts",
+  "main": "index.ts",
   "license": "Copyrighted",
   "scripts": {
     "start:dev": "tsc && node --enable-source-maps ./dist/index.js"
